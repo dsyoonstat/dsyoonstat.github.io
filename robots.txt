@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dsyoonstat.github.io/al-folio/sitemap.xml
+Sitemap: https://dsyoonstat.github.io/sitemap.xml
