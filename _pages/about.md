@@ -2,19 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D. Student in Statistics at the University of Michigan
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: KFAS_talk_cut.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <a href="/assets/pdf/CV_Dongsun.pdf" target="_blank" rel="noopener noreferrer" aria-label="Open CV PDF" class="cv-link">
+      <span class="cv-badge" aria-hidden="true">CV</span>
+    </a>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -27,13 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student in Statistics at the University of Michigan, advised by Professor [Saptarshi Chakraborty](https://saptarshic27.github.io/). My primary research interests lie at the intersection of deep learning and statistics, while I am also interested more broadly in the union of ideas from both fields.
+I am a Ph.D. student in Statistics at the University of Michigan, advised by Professor [Saptarshi Chakraborty](https://saptarshic27.github.io/). My primary research interests lie at the intersection of deep learning and statistics, and more broadly in ideas that connect the two fields.
 
-Before joining Michigan, I received my M.S. in Statistics from Seoul National University, where I was advised by Professor [Sungkyu Jung](https://jung.snu.ac.kr/). I also earned my B.S. from Seoul National University. Prior to my master’s studies, I worked for one year as a junior economist at the Bank of Korea.
-
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before joining Michigan, I received my M.S. in Statistics from Seoul National University, where I was advised by Professor [Sungkyu Jung](https://jung.snu.ac.kr/). I also earned my B.S. from Seoul National University. Prior to my master's studies, I worked for one year as a junior economist at the [Bank of Korea](https://www.bok.or.kr/eng/main/main.do).
