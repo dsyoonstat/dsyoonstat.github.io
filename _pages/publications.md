@@ -2,10 +2,11 @@
 layout: page
 permalink: /publications/
 title: Publications
-subtitle: \* denotes equal contribution.
 nav: true
 nav_order: 2
 ---
+
+\* denotes equal contribution.
 
 <!-- _pages/publications.md -->
 
