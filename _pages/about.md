@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Ph.D. Student in Statistics at the University of Michigan
 
@@ -23,6 +23,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student in Statistics at the University of Michigan, advised by Professor [Saptarshi Chakraborty](https://saptarshic27.github.io/). My primary research interests lie at the intersection of deep learning and statistics, and more broadly in ideas that connect the two fields.
+Hi! I am a Ph.D. student in Statistics at the University of Michigan, advised by Professor [Saptarshi Chakraborty](https://saptarshic27.github.io/). My primary research interests lie at the intersection of deep learning and statistics, and more broadly in ideas that connect the two fields.
 
 Before joining Michigan, I received my M.S. in Statistics from Seoul National University, where I was advised by Professor [Sungkyu Jung](https://jung.snu.ac.kr/). I also earned my B.S. from Seoul National University. Prior to my master's studies, I worked for one year as a junior economist at the [Bank of Korea](https://www.bok.or.kr/eng/main/main.do).
